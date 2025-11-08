@@ -1,0 +1,1157 @@
+{
+  "lowerBound": [
+    {
+      "index": 0,
+      "start": 0,
+      "end": 1050,
+      "text": "(SPLASH)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 1,
+      "start": 1050,
+      "end": 4350,
+      "text": "- [Narrator] Of all the\nrelationships found in the ocean,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 2,
+      "start": 4350,
+      "end": 6813,
+      "text": "few can beat the spinner dolphins.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 3,
+      "start": 8070,
+      "end": 11040,
+      "text": "As well as gathering in huge numbers,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 4,
+      "start": 11040,
+      "end": 14335,
+      "text": "they are the acrobats\nof the dolphin world.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 5,
+      "start": 14335,
+      "end": 17418,
+      "text": "(SPLASH)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 6,
+      "start": 20340,
+      "end": 22860,
+      "text": "They can leap over 10 feet high",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 7,
+      "start": 22860,
+      "end": 25519,
+      "text": "and spin seven times in a jump.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 8,
+      "start": 25519,
+      "end": 27714,
+      "text": "(SPLASH)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 9,
+      "start": 27714,
+      "end": 30631,
+      "text": "(WHIRL)",
+      "isNonSpeech": true,
+      "category": "action"
+    },
+    {
+      "index": 10,
+      "start": 31814,
+      "end": 33090,
+      "text": "(SPLASH)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 11,
+      "start": 33090,
+      "end": 35763,
+      "text": "Today, they're on a hunting expedition.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 12,
+      "start": 37505,
+      "end": 38580,
+      "text": "(SPLASH)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 13,
+      "start": 38580,
+      "end": 42093,
+      "text": "Spy Dolphin is here to find\nout how they work as a team.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 14,
+      "start": 43319,
+      "end": 48319,
+      "text": "(SPLASH) (WHISTLE)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 15,
+      "start": 49050,
+      "end": 51063,
+      "text": "Their bubbles provide a clue.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 16,
+      "start": 53700,
+      "end": 55380,
+      "text": "On closer inspection,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 17,
+      "start": 55380,
+      "end": 57680,
+      "text": "they plainly come from\nthe dolphins blowholes.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 18,
+      "start": 58539,
+      "end": 60270,
+      "text": "(WHISTLE)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 19,
+      "start": 60270,
+      "end": 63322,
+      "text": "A sign they are whistling to each other.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 20,
+      "start": 63322,
+      "end": 66405,
+      "text": "(DOLPHINS WHISTLING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 21,
+      "start": 67710,
+      "end": 71142,
+      "text": "They use these calls to\nbring the pod together.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 22,
+      "start": 71142,
+      "end": 74310,
+      "text": "(DOLPHINS WHISTLING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 23,
+      "start": 74310,
+      "end": 77853,
+      "text": "They also have a unique whistle\nto announce who they are.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 24,
+      "start": 78780,
+      "end": 81442,
+      "text": "The dolphin equivalent of a name.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 25,
+      "start": 81442,
+      "end": 83717,
+      "text": "(DOLPHIN SQUEAKING) (WATER BUBBLES)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 26,
+      "start": 83717,
+      "end": 88717,
+      "text": "(DOLPHINS WHISTLING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 27,
+      "start": 92190,
+      "end": 93780,
+      "text": "As well as whistles,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 28,
+      "start": 93780,
+      "end": 96333,
+      "text": "they use clicks to communicate too.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 29,
+      "start": 98130,
+      "end": 100890,
+      "text": "Some clicks are ultrasonic,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 30,
+      "start": 100890,
+      "end": 102963,
+      "text": "far above our hearing range.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 31,
+      "start": 103800,
+      "end": 106020,
+      "text": "All this works at close range,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 32,
+      "start": 106020,
+      "end": 108390,
+      "text": "but to contact dolphins far away,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 33,
+      "start": 108390,
+      "end": 111272,
+      "text": "they use their corkscrew leaping.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 34,
+      "start": 113640,
+      "end": 116370,
+      "text": "For an aerial view of what's going on,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 35,
+      "start": 116370,
+      "end": 117203,
+      "text": "Spy Frigate films from above.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 36,
+      "start": 117203,
+      "end": 118036,
+      "text": "(WATER SPLASHING)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 37,
+      "start": 123750,
+      "end": 126819,
+      "text": "The leaps can be seen by distant dolphins,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 38,
+      "start": 126819,
+      "end": 129819,
+      "text": "(DOLPHIN SPLASHING)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 39,
+      "start": 131250,
+      "end": 134539,
+      "text": "while the splashing can be\nheard from far and wide.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 40,
+      "start": 134539,
+      "end": 139539,
+      "text": "(DOLPHINS WHISTLING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 41,
+      "start": 139680,
+      "end": 143092,
+      "text": "United, they can hunt as a super team.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 42,
+      "start": 143092,
+      "end": 146880,
+      "text": "(DOLPHINS WHISTLING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 43,
+      "start": 146880,
+      "end": 151380,
+      "text": "Our spy is in the midst of\nan extraordinary gathering:",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 44,
+      "start": 153840,
+      "end": 157539,
+      "text": "One of the greatest mega pods ever filmed.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 45,
+      "start": 157539,
+      "end": 162539,
+      "text": "(DOLPHINS WHISTLING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 46,
+      "start": 168360,
+      "end": 172943,
+      "text": "Spy Dolphin is here to witness\nthis astonishing moment.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    }
+  ],
+  "upperBound": [
+    {
+      "index": 0,
+      "start": 0,
+      "end": 1050,
+      "text": "(DOLPHINS SPLASHING WITH JOYOUS ENERGY)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 1,
+      "start": 1050,
+      "end": 4350,
+      "text": "- [Narrator] Of all the\nrelationships found in the ocean,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 2,
+      "start": 4350,
+      "end": 6813,
+      "text": "few can beat the spinner dolphins.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 3,
+      "start": 8070,
+      "end": 11040,
+      "text": "As well as gathering in huge numbers,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 4,
+      "start": 11040,
+      "end": 14335,
+      "text": "they are the acrobats\nof the dolphin world.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 5,
+      "start": 14335,
+      "end": 17418,
+      "text": "(DOLPHINS SPLASHING WITH JOYOUS ENERGY)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 6,
+      "start": 20340,
+      "end": 22860,
+      "text": "They can leap over 10 feet high",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 7,
+      "start": 22860,
+      "end": 25519,
+      "text": "and spin seven times in a jump.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 8,
+      "start": 25519,
+      "end": 27714,
+      "text": "(WATER SPLASHING AND SWIRLING)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 9,
+      "start": 27714,
+      "end": 30631,
+      "text": "(WATER SPLASHING AND SPRAYING)",
+      "isNonSpeech": true,
+      "category": "action"
+    },
+    {
+      "index": 10,
+      "start": 31814,
+      "end": 33090,
+      "text": "(DOLPHIN SPLASHES WITH VIVACITY)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 11,
+      "start": 33090,
+      "end": 35763,
+      "text": "Today, they're on a hunting expedition.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 12,
+      "start": 37505,
+      "end": 38580,
+      "text": "(DOLPHIN SPLASHES WITH VIVACITY)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 13,
+      "start": 38580,
+      "end": 42093,
+      "text": "Spy Dolphin is here to find\nout how they work as a team.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 14,
+      "start": 43319,
+      "end": 48319,
+      "text": "(WATER SPLASHES)\n(DOLPHIN WHISTLES IN MELODIC HARMONY)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 15,
+      "start": 49050,
+      "end": 51063,
+      "text": "Their bubbles provide a clue.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 16,
+      "start": 53700,
+      "end": 55380,
+      "text": "On closer inspection,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 17,
+      "start": 55380,
+      "end": 57680,
+      "text": "they plainly come from\nthe dolphins blowholes.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 18,
+      "start": 58539,
+      "end": 60270,
+      "text": "(DOLPHINS WHISTLING IN MELODIC HARMONY)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 19,
+      "start": 60270,
+      "end": 63322,
+      "text": "A sign they are whistling to each other.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 20,
+      "start": 63322,
+      "end": 66405,
+      "text": "(DOLPHINS WHISTLING IN UNISON)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 21,
+      "start": 67710,
+      "end": 71142,
+      "text": "They use these calls to\nbring the pod together.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 22,
+      "start": 71142,
+      "end": 74310,
+      "text": "(MULTIPLE DOLPHINS WHISTLING IN HARMONY)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 23,
+      "start": 74310,
+      "end": 77853,
+      "text": "They also have a unique whistle\nto announce who they are.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 24,
+      "start": 78780,
+      "end": 81442,
+      "text": "The dolphin equivalent of a name.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 25,
+      "start": 81442,
+      "end": 83717,
+      "text": "(DOLPHIN SUBTLY SQUEALS)\n(BUBBLY POPPING SOUNDS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 26,
+      "start": 83717,
+      "end": 88717,
+      "text": "(DOLPHINS WHISTLE IN UNISON)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 27,
+      "start": 92190,
+      "end": 93780,
+      "text": "As well as whistles,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 28,
+      "start": 93780,
+      "end": 96333,
+      "text": "they use clicks to communicate too.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 29,
+      "start": 98130,
+      "end": 100890,
+      "text": "Some clicks are ultrasonic,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 30,
+      "start": 100890,
+      "end": 102963,
+      "text": "far above our hearing range.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 31,
+      "start": 103800,
+      "end": 106020,
+      "text": "All this works at close range,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 32,
+      "start": 106020,
+      "end": 108390,
+      "text": "but to contact dolphins far away,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 33,
+      "start": 108390,
+      "end": 111272,
+      "text": "they use their corkscrew leaping.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 34,
+      "start": 113640,
+      "end": 116370,
+      "text": "For an aerial view of what's going on,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 35,
+      "start": 116370,
+      "end": 117203,
+      "text": "Spy Frigate films from above.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 36,
+      "start": 117203,
+      "end": 118036,
+      "text": "(water splashing)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 37,
+      "start": 123750,
+      "end": 126819,
+      "text": "The leaps can be seen by distant dolphins,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 38,
+      "start": 126819,
+      "end": 129819,
+      "text": "(ENERGETIC WATER SPLASHING)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 39,
+      "start": 131250,
+      "end": 134539,
+      "text": "while the splashing can be\nheard from far and wide.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 40,
+      "start": 134539,
+      "end": 139539,
+      "text": "(MULTIPLE DOLPHINS WHISTLING IN UNISON)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 41,
+      "start": 139680,
+      "end": 143092,
+      "text": "United, they can hunt as a super team.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 42,
+      "start": 143092,
+      "end": 146880,
+      "text": "(MULTIPLE DOLPHINS WHISTLE IN CHORUS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 43,
+      "start": 146880,
+      "end": 151380,
+      "text": "Our spy is in the midst of\nan extraordinary gathering:",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 44,
+      "start": 153840,
+      "end": 157539,
+      "text": "One of the greatest mega pods ever filmed.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 45,
+      "start": 157539,
+      "end": 162539,
+      "text": "(CHORUS OF HIGH-PITCHED DOLPHIN WHISTLES)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 46,
+      "start": 168360,
+      "end": 172943,
+      "text": "Spy Dolphin is here to witness\nthis astonishing moment.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    }
+  ],
+  "original": [
+    {
+      "index": 0,
+      "start": 0,
+      "end": 1050,
+      "text": "(dolphins splashing)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 1,
+      "start": 1050,
+      "end": 4350,
+      "text": "- [Narrator] Of all the\nrelationships found in the ocean,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 2,
+      "start": 4350,
+      "end": 6813,
+      "text": "few can beat the spinner dolphins.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 3,
+      "start": 8070,
+      "end": 11040,
+      "text": "As well as gathering in huge numbers,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 4,
+      "start": 11040,
+      "end": 14335,
+      "text": "they are the acrobats\nof the dolphin world.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 5,
+      "start": 14335,
+      "end": 17418,
+      "text": "(dolphins splashing)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 6,
+      "start": 20340,
+      "end": 22860,
+      "text": "They can leap over 10 feet high",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 7,
+      "start": 22860,
+      "end": 25519,
+      "text": "and spin seven times in a jump.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 8,
+      "start": 25519,
+      "end": 27714,
+      "text": "(dolphin splashes)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 9,
+      "start": 27714,
+      "end": 30631,
+      "text": "(dolphin whirling)",
+      "isNonSpeech": true,
+      "category": "action"
+    },
+    {
+      "index": 10,
+      "start": 31814,
+      "end": 33090,
+      "text": "(dolphin splashes)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 11,
+      "start": 33090,
+      "end": 35763,
+      "text": "Today, they're on a hunting expedition.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 12,
+      "start": 37505,
+      "end": 38580,
+      "text": "(dolphin splashes)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 13,
+      "start": 38580,
+      "end": 42093,
+      "text": "Spy Dolphin is here to find\nout how they work as a team.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 14,
+      "start": 43319,
+      "end": 48319,
+      "text": "(water splashes)\n(dolphin whistles)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 15,
+      "start": 49050,
+      "end": 51063,
+      "text": "Their bubbles provide a clue.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 16,
+      "start": 53700,
+      "end": 55380,
+      "text": "On closer inspection,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 17,
+      "start": 55380,
+      "end": 57680,
+      "text": "they plainly come from\nthe dolphins blowholes.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 18,
+      "start": 58539,
+      "end": 60270,
+      "text": "(dolphins whistling)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 19,
+      "start": 60270,
+      "end": 63322,
+      "text": "A sign they are whistling to each other.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 20,
+      "start": 63322,
+      "end": 66405,
+      "text": "(dolphins whistling)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 21,
+      "start": 67710,
+      "end": 71142,
+      "text": "They use these calls to\nbring the pod together.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 22,
+      "start": 71142,
+      "end": 74310,
+      "text": "(dolphins whistling)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 23,
+      "start": 74310,
+      "end": 77853,
+      "text": "They also have a unique whistle\nto announce who they are.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 24,
+      "start": 78780,
+      "end": 81442,
+      "text": "The dolphin equivalent of a name.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 25,
+      "start": 81442,
+      "end": 83717,
+      "text": "(dolphin squeaking)\n(water bubbles)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 26,
+      "start": 83717,
+      "end": 88717,
+      "text": "(dolphins whistling)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 27,
+      "start": 92190,
+      "end": 93780,
+      "text": "As well as whistles,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 28,
+      "start": 93780,
+      "end": 96333,
+      "text": "they use clicks to communicate too.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 29,
+      "start": 98130,
+      "end": 100890,
+      "text": "Some clicks are ultrasonic,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 30,
+      "start": 100890,
+      "end": 102963,
+      "text": "far above our hearing range.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 31,
+      "start": 103800,
+      "end": 106020,
+      "text": "All this works at close range,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 32,
+      "start": 106020,
+      "end": 108390,
+      "text": "but to contact dolphins far away,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 33,
+      "start": 108390,
+      "end": 111272,
+      "text": "they use their corkscrew leaping.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 34,
+      "start": 113640,
+      "end": 116370,
+      "text": "For an aerial view of what's going on,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 35,
+      "start": 116370,
+      "end": 117203,
+      "text": "Spy Frigate films from above.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 36,
+      "start": 117203,
+      "end": 118036,
+      "text": "(water splashing)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 37,
+      "start": 123750,
+      "end": 126819,
+      "text": "The leaps can be seen by distant dolphins,",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 38,
+      "start": 126819,
+      "end": 129819,
+      "text": "(dolphin splashing)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 39,
+      "start": 131250,
+      "end": 134539,
+      "text": "while the splashing can be\nheard from far and wide.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 40,
+      "start": 134539,
+      "end": 139539,
+      "text": "(dolphins whistling)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 41,
+      "start": 139680,
+      "end": 143092,
+      "text": "United, they can hunt as a super team.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 42,
+      "start": 143092,
+      "end": 146880,
+      "text": "(dolphins whistling)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 43,
+      "start": 146880,
+      "end": 151380,
+      "text": "Our spy is in the midst of\nan extraordinary gathering:",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 44,
+      "start": 153840,
+      "end": 157539,
+      "text": "One of the greatest mega pods ever filmed.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 45,
+      "start": 157539,
+      "end": 162539,
+      "text": "(dolphins whistling)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 46,
+      "start": 168360,
+      "end": 172943,
+      "text": "Spy Dolphin is here to witness\nthis astonishing moment.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    }
+  ],
+  "metadata": {
+    "exportedAt": "2025-04-05T15:30:53.808Z",
+    "videoTitle": "nature-dolphin",
+    "videoDescription": "This video showcases remarkable footage captured by a spy dolphin, featuring one of the largest gatherings of dolphins, known as a megapod, ever filmed. This extraordinary event offers viewers a rare glimpse into the social behavior of these marine mammals.",
+    "videoGenre": "Documentary",
+    "filterMode": "all-captions",
+    "parameterValues": {
+      "lowerBound": {
+        "detailLevel": 1.2,
+        "expressiveness": 1
+      },
+      "upperBound": {
+        "detailLevel": 6.48,
+        "expressiveness": 7.3
+      },
+      "original": {
+        "detailLevel": 2,
+        "expressiveness": 1
+      }
+    }
+  }
+}

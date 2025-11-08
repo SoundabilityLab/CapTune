@@ -1,0 +1,845 @@
+{
+  "lowerBound": [
+    {
+      "index": 0,
+      "start": 176,
+      "end": 3720,
+      "text": "(MUSIC)",
+      "isNonSpeech": true,
+      "category": "music"
+    },
+    {
+      "index": 1,
+      "start": 3720,
+      "end": 4553,
+      "text": "- Kristoff.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 2,
+      "start": 5506,
+      "end": 7007,
+      "text": "(BREATHING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 3,
+      "start": 7007,
+      "end": 8272,
+      "text": "- Anna.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 4,
+      "start": 8272,
+      "end": 10746,
+      "text": "(BREATHING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 5,
+      "start": 10746,
+      "end": 13663,
+      "text": "(PANTING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 6,
+      "start": 15792,
+      "end": 18542,
+      "text": "(SWORD SOUND)",
+      "isNonSpeech": true,
+      "category": "action"
+    },
+    {
+      "index": 7,
+      "start": 20067,
+      "end": 20900,
+      "text": "- Elsa?",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 8,
+      "start": 29532,
+      "end": 30365,
+      "text": "No!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 9,
+      "start": 31536,
+      "end": 34847,
+      "text": "(ICE CRACKING)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 10,
+      "start": 34847,
+      "end": 37597,
+      "text": "(SWORD BREAKS)",
+      "isNonSpeech": true,
+      "category": "action"
+    },
+    {
+      "index": 11,
+      "start": 38888,
+      "end": 41471,
+      "text": "(EXHALING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 12,
+      "start": 43264,
+      "end": 44097,
+      "text": "- Anna!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 13,
+      "start": 45111,
+      "end": 45944,
+      "text": "Oh, Anna!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 14,
+      "start": 47693,
+      "end": 49086,
+      "text": "No!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 15,
+      "start": 49086,
+      "end": 50726,
+      "text": "No, please!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 16,
+      "start": 50726,
+      "end": 53043,
+      "text": "No!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 17,
+      "start": 56502,
+      "end": 59085,
+      "text": "(SOBBING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 18,
+      "start": 60056,
+      "end": 61468,
+      "text": "- Anna?",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 19,
+      "start": 61468,
+      "end": 64051,
+      "text": "(ELSA SOBBING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 20,
+      "start": 83935,
+      "end": 86602,
+      "text": "(MAGICAL MUSIC)",
+      "isNonSpeech": true,
+      "category": "music"
+    },
+    {
+      "index": 21,
+      "start": 94795,
+      "end": 97212,
+      "text": "(OLAF GASPS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 22,
+      "start": 102311,
+      "end": 103144,
+      "text": "- Anna?",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 23,
+      "start": 106337,
+      "end": 108030,
+      "text": "- Oh, Elsa!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 24,
+      "start": 108030,
+      "end": 110487,
+      "text": "- You sacrificed yourself for me?",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 25,
+      "start": 112080,
+      "end": 112997,
+      "text": "- I love you.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 26,
+      "start": 114636,
+      "end": 115469,
+      "text": "- An act of true love\nwill thaw a frozen heart!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 27,
+      "start": 119950,
+      "end": 121320,
+      "text": "- Love will thaw.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 28,
+      "start": 123130,
+      "end": 124300,
+      "text": "Love.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 29,
+      "start": 124300,
+      "end": 125560,
+      "text": "Of course.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 30,
+      "start": 125560,
+      "end": 126393,
+      "text": "- Elsa?",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 31,
+      "start": 127240,
+      "end": 128073,
+      "text": "- Love!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 32,
+      "start": 129685,
+      "end": 132676,
+      "text": "(ANNA GASPS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 33,
+      "start": 132676,
+      "end": 135343,
+      "text": "(MAGICAL MUSIC)",
+      "isNonSpeech": true,
+      "category": "music"
+    }
+  ],
+  "upperBound": [
+    {
+      "index": 0,
+      "start": 176,
+      "end": 3720,
+      "text": "(SWELLING DRAMATIC MUSIC FILLS THE AIR)",
+      "isNonSpeech": true,
+      "category": "music"
+    },
+    {
+      "index": 1,
+      "start": 3720,
+      "end": 4553,
+      "text": "- Kristoff.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 2,
+      "start": 5506,
+      "end": 7007,
+      "text": "(KRISTOFF BREATHING HEAVILY, EACH BREATH A LABORED GASP)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 3,
+      "start": 7007,
+      "end": 8272,
+      "text": "- Anna.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 4,
+      "start": 8272,
+      "end": 10746,
+      "text": "(ANNA BREATHS QUICKLY AND SHALLOWLY)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 5,
+      "start": 10746,
+      "end": 13663,
+      "text": "(KRISTOFF PANTING, BREATHS COMING IN SHORT BURSTS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 6,
+      "start": 15792,
+      "end": 18542,
+      "text": "(SWORD DRAWING WITH A SHARP, METALLIC SWISH)",
+      "isNonSpeech": true,
+      "category": "action"
+    },
+    {
+      "index": 7,
+      "start": 20067,
+      "end": 20900,
+      "text": "- Elsa?",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 8,
+      "start": 29532,
+      "end": 30365,
+      "text": "No!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 9,
+      "start": 31536,
+      "end": 34847,
+      "text": "(ICE FREEZING WITH A CRACKLING, CHILLING SOUND)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 10,
+      "start": 34847,
+      "end": 37597,
+      "text": "(SWORD BREAKING WITH A RESOUNDING SHATTER)",
+      "isNonSpeech": true,
+      "category": "action"
+    },
+    {
+      "index": 11,
+      "start": 38888,
+      "end": 41471,
+      "text": "(ANNA EXHALES, A SIGH OF RELIEF ESCAPING HER LIPS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 12,
+      "start": 43264,
+      "end": 44097,
+      "text": "- Anna!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 13,
+      "start": 45111,
+      "end": 45944,
+      "text": "Oh, Anna!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 14,
+      "start": 47693,
+      "end": 49086,
+      "text": "No!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 15,
+      "start": 49086,
+      "end": 50726,
+      "text": "No, please!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 16,
+      "start": 50726,
+      "end": 53043,
+      "text": "No!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 17,
+      "start": 56502,
+      "end": 59085,
+      "text": "(ELSA TREMBLES AND SOBS WITH DESPAIR)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 18,
+      "start": 60056,
+      "end": 61468,
+      "text": "- Anna?",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 19,
+      "start": 61468,
+      "end": 64051,
+      "text": "(ELSA'S HEART-WRENCHING SOBBING ECHOES)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 20,
+      "start": 83935,
+      "end": 86602,
+      "text": "(GLITTERING, ENCHANTING MUSIC SWIRLS)",
+      "isNonSpeech": true,
+      "category": "music"
+    },
+    {
+      "index": 21,
+      "start": 94795,
+      "end": 97212,
+      "text": "(OLAF DRAWS A SPARKLING BREATH OF AMAZEMENT)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 22,
+      "start": 102311,
+      "end": 103144,
+      "text": "- Anna?",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 23,
+      "start": 106337,
+      "end": 108030,
+      "text": "- Oh, Elsa!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 24,
+      "start": 108030,
+      "end": 110487,
+      "text": "- You sacrificed yourself for me?",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 25,
+      "start": 112080,
+      "end": 112997,
+      "text": "- I love you.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 26,
+      "start": 114636,
+      "end": 115469,
+      "text": "- An act of true love\nwill thaw a frozen heart!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 27,
+      "start": 119950,
+      "end": 121320,
+      "text": "- Love will thaw.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 28,
+      "start": 123130,
+      "end": 124300,
+      "text": "Love.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 29,
+      "start": 124300,
+      "end": 125560,
+      "text": "Of course.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 30,
+      "start": 125560,
+      "end": 126393,
+      "text": "- Elsa?",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 31,
+      "start": 127240,
+      "end": 128073,
+      "text": "- Love!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 32,
+      "start": 129685,
+      "end": 132676,
+      "text": "(ANNA GASPS IN ASTONISHMENT AND JOLT OF SURPRISE)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 33,
+      "start": 132676,
+      "end": 135343,
+      "text": "(SPARKLING, MAGICAL TONES SHIMMER WITH MUSIC)",
+      "isNonSpeech": true,
+      "category": "music"
+    }
+  ],
+  "original": [
+    {
+      "index": 0,
+      "start": 176,
+      "end": 3720,
+      "text": "(dramatic music)",
+      "isNonSpeech": true,
+      "category": "music"
+    },
+    {
+      "index": 1,
+      "start": 3720,
+      "end": 4553,
+      "text": "- Kristoff.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 2,
+      "start": 5506,
+      "end": 7007,
+      "text": "(Kristoff breathing heavily)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 3,
+      "start": 7007,
+      "end": 8272,
+      "text": "- Anna.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 4,
+      "start": 8272,
+      "end": 10746,
+      "text": "(Anna breathing heavily)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 5,
+      "start": 10746,
+      "end": 13663,
+      "text": "(Kristoff panting)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 6,
+      "start": 15792,
+      "end": 18542,
+      "text": "(sword drawing)",
+      "isNonSpeech": true,
+      "category": "action"
+    },
+    {
+      "index": 7,
+      "start": 20067,
+      "end": 20900,
+      "text": "- Elsa?",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 8,
+      "start": 29532,
+      "end": 30365,
+      "text": "No!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 9,
+      "start": 31536,
+      "end": 34847,
+      "text": "(ice freezing)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 10,
+      "start": 34847,
+      "end": 37597,
+      "text": "(sword breaking)",
+      "isNonSpeech": true,
+      "category": "action"
+    },
+    {
+      "index": 11,
+      "start": 38888,
+      "end": 41471,
+      "text": "(Anna exhales)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 12,
+      "start": 43264,
+      "end": 44097,
+      "text": "- Anna!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 13,
+      "start": 45111,
+      "end": 45944,
+      "text": "Oh, Anna!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 14,
+      "start": 47693,
+      "end": 49086,
+      "text": "No!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 15,
+      "start": 49086,
+      "end": 50726,
+      "text": "No, please!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 16,
+      "start": 50726,
+      "end": 53043,
+      "text": "No!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 17,
+      "start": 56502,
+      "end": 59085,
+      "text": "(Elsa sobbing)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 18,
+      "start": 60056,
+      "end": 61468,
+      "text": "- Anna?",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 19,
+      "start": 61468,
+      "end": 64051,
+      "text": "(Elsa sobbing)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 20,
+      "start": 83935,
+      "end": 86602,
+      "text": "(magical music)",
+      "isNonSpeech": true,
+      "category": "music"
+    },
+    {
+      "index": 21,
+      "start": 94795,
+      "end": 97212,
+      "text": "(Olaf gasps)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 22,
+      "start": 102311,
+      "end": 103144,
+      "text": "- Anna?",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 23,
+      "start": 106337,
+      "end": 108030,
+      "text": "- Oh, Elsa!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 24,
+      "start": 108030,
+      "end": 110487,
+      "text": "- You sacrificed yourself for me?",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 25,
+      "start": 112080,
+      "end": 112997,
+      "text": "- I love you.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 26,
+      "start": 114636,
+      "end": 115469,
+      "text": "- An act of true love\nwill thaw a frozen heart!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 27,
+      "start": 119950,
+      "end": 121320,
+      "text": "- Love will thaw.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 28,
+      "start": 123130,
+      "end": 124300,
+      "text": "Love.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 29,
+      "start": 124300,
+      "end": 125560,
+      "text": "Of course.",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 30,
+      "start": 125560,
+      "end": 126393,
+      "text": "- Elsa?",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 31,
+      "start": 127240,
+      "end": 128073,
+      "text": "- Love!",
+      "isNonSpeech": false,
+      "category": "uncategorized"
+    },
+    {
+      "index": 32,
+      "start": 129685,
+      "end": 132676,
+      "text": "(Anna gasps)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 33,
+      "start": 132676,
+      "end": 135343,
+      "text": "(magical music)",
+      "isNonSpeech": true,
+      "category": "music"
+    }
+  ],
+  "metadata": {
+    "exportedAt": "2025-04-03T17:41:59.905Z",
+    "videoTitle": "Frozen",
+    "videoGenre": "Disney Animation",
+    "videoDescription": "Frozen is a story about a princess who sets off on a journey to find her sister, who has magical powers. The setting is a snowy kingdom, and the characters include Anna, Elsa, Kristoff, and Olaf.",
+    "filterMode": "all-captions",
+    "parameterValues": {
+      "lowerBound": {
+        "detailLevel": 1.72,
+        "expressiveness": 1.4
+      },
+      "upperBound": {
+        "detailLevel": 8.2,
+        "expressiveness": 7.8999999999999995
+      },
+      "original": {
+        "detailLevel": 4,
+        "expressiveness": 3
+      }
+    }
+  }
+}

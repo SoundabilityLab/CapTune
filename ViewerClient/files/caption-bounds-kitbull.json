@@ -1,0 +1,1613 @@
+{
+  "lowerBound": [
+    {
+      "index": 0,
+      "start": 4680,
+      "end": 6100,
+      "text": "(MUSIC)",
+      "isNonSpeech": true,
+      "category": "music"
+    },
+    {
+      "index": 1,
+      "start": 10340,
+      "end": 12800,
+      "text": "(CHATTER)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 2,
+      "start": 19700,
+      "end": 20500,
+      "text": "(WHISTLES)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 3,
+      "start": 21000,
+      "end": 22500,
+      "text": "(TONGUE CLICK)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 4,
+      "start": 34000,
+      "end": 35200,
+      "text": "(COOING)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 5,
+      "start": 36700,
+      "end": 37500,
+      "text": "(YOWLS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 6,
+      "start": 55000,
+      "end": 55900,
+      "text": "(PURRING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 7,
+      "start": 58700,
+      "end": 60300,
+      "text": "(VEHICLE)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 8,
+      "start": 63500,
+      "end": 64500,
+      "text": "(RATTLE)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 9,
+      "start": 68120,
+      "end": 68900,
+      "text": "(SNARL)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 10,
+      "start": 72700,
+      "end": 75100,
+      "text": "(WHINE AND BARK)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 11,
+      "start": 80900,
+      "end": 81860,
+      "text": "(PANT)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 12,
+      "start": 84000,
+      "end": 84900,
+      "text": "(SNIFF) (YOWL)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 13,
+      "start": 87900,
+      "end": 89100,
+      "text": "(SNIFF)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 14,
+      "start": 92200,
+      "end": 93100,
+      "text": "(SNARL)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 15,
+      "start": 98160,
+      "end": 98880,
+      "text": "(BARK)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 16,
+      "start": 104760,
+      "end": 105720,
+      "text": "(PANT)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 17,
+      "start": 113640,
+      "end": 114280,
+      "text": "(WHINE)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 18,
+      "start": 120760,
+      "end": 121640,
+      "text": "(WHINE)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 19,
+      "start": 126600,
+      "end": 128400,
+      "text": "(SNORE)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 20,
+      "start": 132480,
+      "end": 133440,
+      "text": "(CLATTER)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 21,
+      "start": 143500,
+      "end": 145800,
+      "text": "(RATTLE) (PURR)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 22,
+      "start": 151420,
+      "end": 151980,
+      "text": "(PURR)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 23,
+      "start": 161880,
+      "end": 162800,
+      "text": "(SNARL)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 24,
+      "start": 164800,
+      "end": 165900,
+      "text": "(CLANK) (SNARL)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 25,
+      "start": 176700,
+      "end": 177900,
+      "text": "(YOWL)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 26,
+      "start": 182100,
+      "end": 182980,
+      "text": "(YOWL)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 27,
+      "start": 189400,
+      "end": 191400,
+      "text": "(AIRPLANE)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 28,
+      "start": 194080,
+      "end": 195520,
+      "text": "(BARK) (YOWL)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 29,
+      "start": 197400,
+      "end": 199260,
+      "text": "(BARK)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 30,
+      "start": 200600,
+      "end": 202700,
+      "text": "(GROWL) (SQUEAK)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 31,
+      "start": 211400,
+      "end": 212800,
+      "text": "(DOOR CLOSE)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 32,
+      "start": 221720,
+      "end": 223000,
+      "text": "(THUNDER)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 33,
+      "start": 224400,
+      "end": 225900,
+      "text": "(WHINE)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 34,
+      "start": 226900,
+      "end": 228020,
+      "text": "(BARK)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 35,
+      "start": 229400,
+      "end": 231840,
+      "text": "(WHINE)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 36,
+      "start": 232600,
+      "end": 233600,
+      "text": "(BARK)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 37,
+      "start": 234880,
+      "end": 235680,
+      "text": "(THUD)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 38,
+      "start": 236600,
+      "end": 238300,
+      "text": "(CREAK)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 39,
+      "start": 240500,
+      "end": 242420,
+      "text": "(MEW)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 40,
+      "start": 244800,
+      "end": 246600,
+      "text": "(RATTLE)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 41,
+      "start": 250800,
+      "end": 251700,
+      "text": "(SNARL)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 42,
+      "start": 254500,
+      "end": 255700,
+      "text": "(WHIMPER)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 43,
+      "start": 260800,
+      "end": 261780,
+      "text": "(SNARL)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 44,
+      "start": 262500,
+      "end": 264100,
+      "text": "(WHIMPER)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 45,
+      "start": 265400,
+      "end": 267700,
+      "text": "(THUNDER)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 46,
+      "start": 309700,
+      "end": 311500,
+      "text": "(WHEEZE)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 47,
+      "start": 322100,
+      "end": 323500,
+      "text": "(GROWL)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 48,
+      "start": 338000,
+      "end": 339360,
+      "text": "(SNIFF)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 49,
+      "start": 347400,
+      "end": 348640,
+      "text": "(PURR)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 50,
+      "start": 361300,
+      "end": 362640,
+      "text": "(PANT)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 51,
+      "start": 363200,
+      "end": 364480,
+      "text": "(THUD)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 52,
+      "start": 365000,
+      "end": 367200,
+      "text": "(WHINE)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 53,
+      "start": 367500,
+      "end": 370200,
+      "text": "(FOOTSTEP) (MEW)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 54,
+      "start": 375000,
+      "end": 376200,
+      "text": "(LOCK OPEN)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 55,
+      "start": 379000,
+      "end": 380500,
+      "text": "(WHINE)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 56,
+      "start": 380500,
+      "end": 381800,
+      "text": "(DOOR OPEN)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 57,
+      "start": 392700,
+      "end": 393300,
+      "text": "(CHAIN RATTLE)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 58,
+      "start": 404700,
+      "end": 406020,
+      "text": "(PANT)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 59,
+      "start": 419100,
+      "end": 420540,
+      "text": "(SNIFF)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 60,
+      "start": 421800,
+      "end": 423320,
+      "text": "(TONGUE CLICK)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 61,
+      "start": 428400,
+      "end": 431260,
+      "text": "(SNIFF)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 62,
+      "start": 431700,
+      "end": 434480,
+      "text": "(PURR)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 63,
+      "start": 453000,
+      "end": 454640,
+      "text": "(BARK)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 64,
+      "start": 454860,
+      "end": 455800,
+      "text": "(PANT)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 65,
+      "start": 470820,
+      "end": 473380,
+      "text": "(MUSIC)",
+      "isNonSpeech": true,
+      "category": "music"
+    }
+  ],
+  "upperBound": [
+    {
+      "index": 0,
+      "start": 4680,
+      "end": 6100,
+      "text": "(SOFT, LYRICAL MELODY WEAVES THROUGH THE AIR)",
+      "isNonSpeech": true,
+      "category": "music"
+    },
+    {
+      "index": 1,
+      "start": 10340,
+      "end": 12800,
+      "text": "(MURMUR OF CHATTERS BLENDS INTO THE BACKGROUND)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 2,
+      "start": 19700,
+      "end": 20500,
+      "text": "(WOMAN WHISTLES A LIGHT, PLAYFUL TUNE)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 3,
+      "start": 21000,
+      "end": 22500,
+      "text": "(WOMAN CLICKS TONGUE RHYTHMICALLY)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 4,
+      "start": 34000,
+      "end": 35200,
+      "text": "(PIGEONS COOING IN A SOOTHING HARMONY)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 5,
+      "start": 36700,
+      "end": 37500,
+      "text": "(YOWLS ECHO WITH A MOURNFUL CRY)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 6,
+      "start": 55000,
+      "end": 55900,
+      "text": "(PURRING WITH A GENTLE, COMFORTING HUM)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 7,
+      "start": 58700,
+      "end": 60300,
+      "text": "(VEHICLE APPROACHING WITH A LOW, STEADY RUMBLE)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 8,
+      "start": 63500,
+      "end": 64500,
+      "text": "(METALLIC RATTLING WITH A JARRING CLATTER)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 9,
+      "start": 68120,
+      "end": 68900,
+      "text": "(DOG SNARLING WITH A FEROCIOUS GROWL)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 10,
+      "start": 72700,
+      "end": 75100,
+      "text": "(DOG WHINES AND BARKS IN A SYMPHONY OF EMOTION)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 11,
+      "start": 80900,
+      "end": 81860,
+      "text": "(DOG PANTING WITH A RHYTHMIC BREATHING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 12,
+      "start": 84000,
+      "end": 84900,
+      "text": "-(SNIFFS)\n-(CAT YOWLS WITH A PIERCING CRY)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 13,
+      "start": 87900,
+      "end": 89100,
+      "text": "(SNIFFING WITH A CURIOUS INQUISITIVENESS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 14,
+      "start": 92200,
+      "end": 93100,
+      "text": "(CAT SNARLS WITH A MENACING HISS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 15,
+      "start": 98160,
+      "end": 98880,
+      "text": "(BARKING WITH A RESONANT ECHO)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 16,
+      "start": 104760,
+      "end": 105720,
+      "text": "(DOG PANTING WITH A STEADY RHYTHM)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 17,
+      "start": 113640,
+      "end": 114280,
+      "text": "(WHINES WITH A MOURNFUL TONE)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 18,
+      "start": 120760,
+      "end": 121640,
+      "text": "(DOG WHINES WITH A LONGING CRY)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 19,
+      "start": 126600,
+      "end": 128400,
+      "text": "(SNORING WITH A DEEP, RELAXED RHYTHM)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 20,
+      "start": 132480,
+      "end": 133440,
+      "text": "(CLATTERING WITH A CHAOTIC TUMBLE)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 21,
+      "start": 143500,
+      "end": 145800,
+      "text": "-(BOTTLE CAP RATTLING WITH A METALLIC JINGLE)                                                      -(PURRS WITH A SOOTHING VIBRATION)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 22,
+      "start": 151420,
+      "end": 151980,
+      "text": "(PURRS WITH A GENTLE, VIBRANT HUM)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 23,
+      "start": 161880,
+      "end": 162800,
+      "text": "(SNARLS WITH A FIERCE INTENSITY)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 24,
+      "start": 164800,
+      "end": 165900,
+      "text": "-(CHAIN CLANKING WITH A METALLIC CLANG)\n-(SNARLING WITH A SAVAGE GROWL)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 25,
+      "start": 176700,
+      "end": 177900,
+      "text": "(YOWLS WITH A DESOLATE CRY)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 26,
+      "start": 182100,
+      "end": 182980,
+      "text": "(YOWLS WITH A LAMENTING WAIL)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 27,
+      "start": 189400,
+      "end": 191400,
+      "text": "(AIRPLANE ROARS OVERHEAD, CUTTING THROUGH THE SKY)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 28,
+      "start": 194080,
+      "end": 195520,
+      "text": "-(DOG BARKS FEROCIOUSLY)\n-(CAT YOWLS IN DISTRESS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 29,
+      "start": 197400,
+      "end": 199260,
+      "text": "(DOG BARKS WITH URGENCY)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 30,
+      "start": 200600,
+      "end": 202700,
+      "text": "-(LOW, MENACING GROWL)\n-(TOY SQUEAKS PLAYFULLY)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 31,
+      "start": 211400,
+      "end": 212800,
+      "text": "(DOOR SLAMS SHUT WITH A RESOUNDING THUD)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 32,
+      "start": 221720,
+      "end": 223000,
+      "text": "(THUNDER CRASHES, SHAKING THE EARTH)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 33,
+      "start": 224400,
+      "end": 225900,
+      "text": "(DOG WHINES PITIFULLY)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 34,
+      "start": 226900,
+      "end": 228020,
+      "text": "(DOG BARKS SHARPLY)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 35,
+      "start": 229400,
+      "end": 231840,
+      "text": "(DOG CONTINUES WHINING, ECHOING THROUGH THE ROOM)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 36,
+      "start": 232600,
+      "end": 233600,
+      "text": "(DOG CONTINUES BARKING, SOUNDING ALARMED)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 37,
+      "start": 234880,
+      "end": 235680,
+      "text": "(HEAVY THUDDING, LIKE A GIANT'S FOOTSTEPS)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 38,
+      "start": 236600,
+      "end": 238300,
+      "text": "(WOOD CREAKS OMINOUSLY, AS IF UNDER PRESSURE)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 39,
+      "start": 240500,
+      "end": 242420,
+      "text": "(CAT MEWS SOFTLY, SEEKING ATTENTION)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 40,
+      "start": 244800,
+      "end": 246600,
+      "text": "(RATTLING, LIKE CHAINS IN THE WIND)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 41,
+      "start": 250800,
+      "end": 251700,
+      "text": "(SNARLS, FIERCE AND UNYIELDING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 42,
+      "start": 254500,
+      "end": 255700,
+      "text": "(WHIMPERS, A SOUND OF DESPERATION)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 43,
+      "start": 260800,
+      "end": 261780,
+      "text": "(SNARLS, A WARNING GROWL)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 44,
+      "start": 262500,
+      "end": 264100,
+      "text": "(DOG WHIMPERING, A PLEA FOR COMFORT)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 45,
+      "start": 265400,
+      "end": 267700,
+      "text": "(THUNDER CRASHES, RUMBLING THROUGH THE AIR)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 46,
+      "start": 309700,
+      "end": 311500,
+      "text": "(DOG WHEEZING WITH A LABORED BREATH)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 47,
+      "start": 322100,
+      "end": 323500,
+      "text": "(GROWLS WITH A LOW, MENACING RUMBLE)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 48,
+      "start": 338000,
+      "end": 339360,
+      "text": "(SNIFFING WITH AN INQUISITIVE INTENT)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 49,
+      "start": 347400,
+      "end": 348640,
+      "text": "(PURRING WITH A CALMING RESONANCE)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 50,
+      "start": 361300,
+      "end": 362640,
+      "text": "(PANTING WITH A RAPID, EXHAUSTED RHYTHM)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 51,
+      "start": 363200,
+      "end": 364480,
+      "text": "(THUD WITH A HEAVY IMPACT)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 52,
+      "start": 365000,
+      "end": 367200,
+      "text": "(DOG WHINES WITH A MELANCHOLIC NOTE)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 53,
+      "start": 367500,
+      "end": 370200,
+      "text": "-(FOOTSTEPS APPROACHING WITH A STEADY PACE)\n-(MEWS WITH A SOFT, INNOCENT SOUND)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 54,
+      "start": 375000,
+      "end": 376200,
+      "text": "(DOOR LOCK OPENS WITH A CLICKING SOUND)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 55,
+      "start": 379000,
+      "end": 380500,
+      "text": "(DOG WHINING WITH A PLEADING TONE)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 56,
+      "start": 380500,
+      "end": 381800,
+      "text": "(DOOR OPENING WITH A SLOW CREAK)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 57,
+      "start": 392700,
+      "end": 393300,
+      "text": "(CHAIN RATTLING WITH A SHARP CLINK)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 58,
+      "start": 404700,
+      "end": 406020,
+      "text": "(DOG PANTING WITH A HEAVY BREATH)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 59,
+      "start": 419100,
+      "end": 420540,
+      "text": "(SNIFFS WITH A CURIOUS INHALE)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 60,
+      "start": 421800,
+      "end": 423320,
+      "text": "(WOMAN CLICKS TONGUE WITH A PLAYFUL RHYTHM)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 61,
+      "start": 428400,
+      "end": 431260,
+      "text": "(SNIFFING WITH A KEEN INTEREST)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 62,
+      "start": 431700,
+      "end": 434480,
+      "text": "(PURRING WITH A GENTLE, SOOTHING VIBRATION)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 63,
+      "start": 453000,
+      "end": 454640,
+      "text": "(DOG BARKS WITH A SHARP, COMMANDING TONE)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 64,
+      "start": 454860,
+      "end": 455800,
+      "text": "(PANTING WITH A RAPID, TIRED RHYTHM)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 65,
+      "start": 470820,
+      "end": 473380,
+      "text": "(SOFT, LYRICAL MELODY WEAVES THROUGH THE AIR)",
+      "isNonSpeech": true,
+      "category": "music"
+    }
+  ],
+  "original": [
+    {
+      "index": 0,
+      "start": 4680,
+      "end": 6100,
+      "text": "(GENTLE INSTRUMENTAL\nMUSIC PLAYING)",
+      "isNonSpeech": true,
+      "category": "music"
+    },
+    {
+      "index": 1,
+      "start": 10340,
+      "end": 12800,
+      "text": "(INDISTINCT CHATTER)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 2,
+      "start": 19700,
+      "end": 20500,
+      "text": "(WOMAN WHISTLES)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 3,
+      "start": 21000,
+      "end": 22500,
+      "text": "(WOMAN CLICKS TONGUE)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 4,
+      "start": 34000,
+      "end": 35200,
+      "text": "(PIGEONS COOING)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 5,
+      "start": 36700,
+      "end": 37500,
+      "text": "(YOWLS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 6,
+      "start": 55000,
+      "end": 55900,
+      "text": "(PURRING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 7,
+      "start": 58700,
+      "end": 60300,
+      "text": "(VEHICLE APPROACHING)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 8,
+      "start": 63500,
+      "end": 64500,
+      "text": "(METALLIC RATTLING)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 9,
+      "start": 68120,
+      "end": 68900,
+      "text": "(DOG SNARLING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 10,
+      "start": 72700,
+      "end": 75100,
+      "text": "(DOG WHINES AND BARKS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 11,
+      "start": 80900,
+      "end": 81860,
+      "text": "(DOG PANTING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 12,
+      "start": 84000,
+      "end": 84900,
+      "text": "-(SNIFFS)\n-(CAT YOWLS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 13,
+      "start": 87900,
+      "end": 89100,
+      "text": "(SNIFFING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 14,
+      "start": 92200,
+      "end": 93100,
+      "text": "(CAT SNARLS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 15,
+      "start": 98160,
+      "end": 98880,
+      "text": "(BARKING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 16,
+      "start": 104760,
+      "end": 105720,
+      "text": "(DOG PANTING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 17,
+      "start": 113640,
+      "end": 114280,
+      "text": "(WHINES)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 18,
+      "start": 120760,
+      "end": 121640,
+      "text": "(DOG WHINES)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 19,
+      "start": 126600,
+      "end": 128400,
+      "text": "(SNORING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 20,
+      "start": 132480,
+      "end": 133440,
+      "text": "(CLATTERING)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 21,
+      "start": 143500,
+      "end": 145800,
+      "text": "-(BOTTLE CAP RATTLING)                                                      -(PURRS)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 22,
+      "start": 151420,
+      "end": 151980,
+      "text": "(PURRS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 23,
+      "start": 161880,
+      "end": 162800,
+      "text": "(SNARLS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 24,
+      "start": 164800,
+      "end": 165900,
+      "text": "-(CHAIN CLANKING)\n-(SNARLING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 25,
+      "start": 176700,
+      "end": 177900,
+      "text": "(YOWLS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 26,
+      "start": 182100,
+      "end": 182980,
+      "text": "(YOWLS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 27,
+      "start": 189400,
+      "end": 191400,
+      "text": "(AIRPLANE PASSING OVERHEAD)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 28,
+      "start": 194080,
+      "end": 195520,
+      "text": "-(BARKING)\n-(YOWLS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 29,
+      "start": 197400,
+      "end": 199260,
+      "text": "(DOG BARKS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 30,
+      "start": 200600,
+      "end": 202700,
+      "text": "-(GROWLING)\n-(TOY SQUEAKING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 31,
+      "start": 211400,
+      "end": 212800,
+      "text": "(DOOR CLOSES)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 32,
+      "start": 221720,
+      "end": 223000,
+      "text": "(THUNDER CRASHES)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 33,
+      "start": 224400,
+      "end": 225900,
+      "text": "(DOG WHINING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 34,
+      "start": 226900,
+      "end": 228020,
+      "text": "(BARKS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 35,
+      "start": 229400,
+      "end": 231840,
+      "text": "(CONTINUES WHINING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 36,
+      "start": 232600,
+      "end": 233600,
+      "text": "(CONTINUES BARKING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 37,
+      "start": 234880,
+      "end": 235680,
+      "text": "(THUDDING)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 38,
+      "start": 236600,
+      "end": 238300,
+      "text": "(WOOD CREAKING)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 39,
+      "start": 240500,
+      "end": 242420,
+      "text": "(CAT MEWS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 40,
+      "start": 244800,
+      "end": 246600,
+      "text": "(RATTLING)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 41,
+      "start": 250800,
+      "end": 251700,
+      "text": "(SNARLS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 42,
+      "start": 254500,
+      "end": 255700,
+      "text": "(WHIMPERS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 43,
+      "start": 260800,
+      "end": 261780,
+      "text": "(SNARLS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 44,
+      "start": 262500,
+      "end": 264100,
+      "text": "(DOG WHIMPERING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 45,
+      "start": 265400,
+      "end": 267700,
+      "text": "(THUNDER CRASHES)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 46,
+      "start": 309700,
+      "end": 311500,
+      "text": "(DOG WHEEZING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 47,
+      "start": 322100,
+      "end": 323500,
+      "text": "(GROWLS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 48,
+      "start": 338000,
+      "end": 339360,
+      "text": "(SNIFFING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 49,
+      "start": 347400,
+      "end": 348640,
+      "text": "(PURRING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 50,
+      "start": 361300,
+      "end": 362640,
+      "text": "(PANTING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 51,
+      "start": 363200,
+      "end": 364480,
+      "text": "(THUD)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 52,
+      "start": 365000,
+      "end": 367200,
+      "text": "(DOG WHINES)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 53,
+      "start": 367500,
+      "end": 370200,
+      "text": "-(FOOTSTEPS APPROACHING)\n-(MEWS)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 54,
+      "start": 375000,
+      "end": 376200,
+      "text": "(DOOR LOCK OPENS)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 55,
+      "start": 379000,
+      "end": 380500,
+      "text": "(DOG WHINING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 56,
+      "start": 380500,
+      "end": 381800,
+      "text": "(DOOR OPENING)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 57,
+      "start": 392700,
+      "end": 393300,
+      "text": "(CHAIN RATTLING)",
+      "isNonSpeech": true,
+      "category": "sound_effect"
+    },
+    {
+      "index": 58,
+      "start": 404700,
+      "end": 406020,
+      "text": "(DOG PANTING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 59,
+      "start": 419100,
+      "end": 420540,
+      "text": "(SNIFFS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 60,
+      "start": 421800,
+      "end": 423320,
+      "text": "(WOMAN CLICKS TONGUE)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 61,
+      "start": 428400,
+      "end": 431260,
+      "text": "(SNIFFING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 62,
+      "start": 431700,
+      "end": 434480,
+      "text": "(PURRING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 63,
+      "start": 453000,
+      "end": 454640,
+      "text": "(DOG BARKS)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 64,
+      "start": 454860,
+      "end": 455800,
+      "text": "(PANTING)",
+      "isNonSpeech": true,
+      "category": "character_sound"
+    },
+    {
+      "index": 65,
+      "start": 470820,
+      "end": 473380,
+      "text": "(GENTLE INSTRUMENTAL\nMUSIC PLAYING)",
+      "isNonSpeech": true,
+      "category": "music"
+    }
+  ],
+  "metadata": {
+    "exportedAt": "2025-04-05T15:46:11.521Z",
+    "videoTitle": "Kitbull",
+    "videoDescription": "This video tells the story of an unlikely friendship between a fiercely independent stray kitten and an abused pit bull. Through their bond, the film explores themes of friendship, resilience, and compassion",
+    "videoGenre": "Pixar Animation",
+    "filterMode": "all-captions",
+    "parameterValues": {
+      "lowerBound": {
+        "detailLevel": 1.4,
+        "expressiveness": 1.3
+      },
+      "upperBound": {
+        "detailLevel": 7.42,
+        "expressiveness": 8.4
+      },
+      "original": {
+        "detailLevel": 3,
+        "expressiveness": 2
+      }
+    }
+  }
+}
